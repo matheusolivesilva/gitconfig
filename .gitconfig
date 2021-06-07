@@ -1,0 +1,16 @@
+[alias]
+	s = status
+	ch = checkout
+	d = diff
+	a = add
+	c = commit
+	p = push
+	pl = pull
+	br = branch
+	mr = merge
+	r = reset
+[core]
+	editor = vim
+[user]
+	email = matheus.oliveira.silv@gmail.com
+	name = Matheus Oliveira da Silva
